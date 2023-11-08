@@ -12,7 +12,7 @@ public class EurekaServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaServerApplication.class, args);
 		System.out.println("This is Eureka Server...");
-		//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  - pahword
+		//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  - password
 	}
 
 }
